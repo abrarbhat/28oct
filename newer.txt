@@ -1,0 +1,180 @@
+    1  git init
+    2  git add .
+    3  git config --list
+    4  git config --global user.name "abrar"
+    5  git config --global user.name "abrarbhat"
+    6  cd ..
+    7  cd ..
+    8   cd wamp/
+    9  CD www/
+   10  cd www/
+   11  dir
+   12  ls
+   13  cd teamview/
+   14  ls
+   15  cls
+   16  clear
+   17  git init
+   18  git add .
+   19  git commit -m "team commit"
+   20  git remote add origin https://github.com/abrarbhat/team.git
+   21  git remote -v
+   22  git push origin master
+   23  cd ..
+   24  cd train/
+   25  git init 
+   26  git add .
+   27  git commit -m "iac commit main" 
+   28  git remote add origin https://github.com/abrarbhat/team.git
+   29  git push origin master
+   30  git push -f origin master
+   31  git mv main.html dir/index_new.html
+   32  dir
+   33  git mv main.html dir/index_new.html
+   34  git branch
+   35  git branch abrarnew
+   36  git checkout abarnew
+   37  git checkout abrarnew
+   38  git add main.html 
+   39  git commit -m " only main pushed to new branch under abrarnew" 
+   40  git remote add origin https://github.com/abrarbhat/team.git
+   41  echo "abrar this is old file that we ll be using " >> old.txt
+   42  git add old.txt 
+   43  git commit -m "iac commit main" 
+   44  git remote add origin https://github.com/abrarbhat/team.git
+   45  git remote -f add origin https://github.com/abrarbhat/team.git
+   46  git config
+   47  git help
+   48  git branch cats
+   49  git checkout cats
+   50  git add old.txt
+   51  git commit -m "old text fiel" 
+   52  git remote add origin https://github.com/abrarbhat/team.git
+   53  git clone https://github.com/abrarbhat/28oct.git
+   54  dir
+   55  git status
+   56  cd ..
+   57  cd train/
+   58  cd 28oct/
+   59  ls
+   60  echo "ne file created at 12pm" >> new.txt
+   61  dir
+   62  git add new.txt 
+   63  git commit -m "new file of txt"
+   64  git status
+   65  git pull origin master
+   66  gti push origin master
+   67  git push origin master
+   68  echo "ne file created at 1pm" >> new1.txt
+   69  git add new1.txt 
+   70  dir
+   71  git commit -m "new file of txt new1.txt"
+   72  gti push origin master
+   73  git push origin master
+   74* 
+   75  git add new.txt 
+   76  git commit -m "really new file of txt"
+   77  echo "really really really new file created at 1pm" >> new.txt
+   78  git add new.txt 
+   79  git commit -m "really new file of txt"
+   80  git push origin master
+   81  git branch
+   82  git branch masternew
+   83  git branch
+   84  git checkout masternew
+   85  echo "i ma inside master new" >> ma.txt
+   86  git add ma.txt
+   87  ls
+   88  git commit -m "inside ma of branch ma "
+   89  git push origin masternew
+   90  history >> hist.txt
+   91  git..
+   92  cd ..
+   93  ls
+   94  cd..
+   95  cd ..
+   96  ls
+   97  mkdir comparerrs
+   98  cd comparerrs/
+   99  ls
+  100  git init
+  101  echo "i m old version of abrar" >> index.txt
+  102  git add index.txt 
+  103  git commit -m "old index file"
+  104  git remote add origin https://github.com/abrarbhat/comparer.git
+  105  git push -u oriin master
+  106  git push -u origin master
+  107  git remote add origin https://github.com/abrarbhat/comparer.git
+  108  git push -u origin master
+  109  git push -f origin master
+  110  git remote add origin http://github.com/abrarbhat/comparer.git
+  111  git push -f origin master
+  112  ls
+  113  git remote add origin http://github.com/abrarbhat/comparer.git
+  114  git push origin master
+  115  git status
+  116  git push origin master
+  117  git checkout master
+  118  git push origin master
+  119  git remote add origin https://github.com/abrarbhat/comparer.git
+  120  git push -u origin master
+  121  cd ..
+  122  mkdir newgit
+  123   cd newgit/
+  124  ls
+  125  echo "inside newgit ..change this fiel if u want" >> index.txt
+  126  ls
+  127  git init
+  128  git add index.txt 
+  129  ls
+  130  git add index.txt 
+  131  git commit -m "first commit"
+  132  git remote add origin fatal: I don't handle protocol 'https'
+  133  git remote add origin fhttps://github.com/abrarbhat/comparer.git
+  134  git push -u origin master
+  135  git push -u origin master
+  136  git push -u master
+  137  git push -u origin master
+  138  git push -u origin master
+  139  git push -u master
+  140  git remote add origin fhttps://github.com/abrarbhat/comparer.gitdir
+  141* 
+  142  ls
+  143  git init
+  144  echo "hello" >> README.md
+  145  git add README.md 
+  146  git commit -m "first commit"
+  147  git remote add origin https://github.com/abrarbhat/comparer.git
+  148  git push -u origin master
+  149  history >> grep f
+  150  git status
+  151  git status
+  152  git push -u origin master
+  153   cd..
+  154  cd ..
+  155  ls
+  156  cd 28
+  157  git status
+  158  ls
+  159  echo "are you fine" >> hel.txt
+  160  git add hel.txt 
+  161  git commit -m "new hello file"
+  162  git push origin master
+  163  git push -f origin master
+  164  history >> hist.txt
+  165  git add hist.txt 
+  166  git commit -m "contains history files"
+  167  git push -f origin master
+  168  git branch newecho
+  169  git context newecho
+  170  history >> newhist.txt
+  171  ls
+  172  git add .
+  173  git commit -m "new history of all at new"
+  174  git push origin newecho 
+  175  git status
+  176  git checkout master
+  177  git checkout newecho 
+  178  git add newecho
+  179  ls
+  180  history >> newer.txt
